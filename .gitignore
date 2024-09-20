@@ -1,0 +1,19 @@
+# Ignore build artifacts
+build/
+bin/
+
+# Ignore object files
+*.o
+
+# Ignore executables
+cipher
+*.out
+*.exe
+
+# Ignore backup/swap files
+*.swp
+*.bak
+*.tmp
+
+# Ignore generated Makefile
+Makefile
